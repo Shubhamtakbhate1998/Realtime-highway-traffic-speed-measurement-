@@ -1,7 +1,7 @@
 # ENPM-673 
 ## Final Project
 
-## Author: Pulkit Mehta (UID: 117551693), Anirudh Krishnan Komaralingam(UID: 117446432)
+## Author: Pulkit Mehta (UID: 117551693), Anirudh Krishnan Komaralingam(UID: 117446432), Shubham Ramraja Takbhate
 
 Clone/Download the folder and run the below files in the terminal from the folder or in any IDE.
 
